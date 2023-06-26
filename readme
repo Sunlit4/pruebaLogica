@@ -1,0 +1,80 @@
+
+## Requisitos de la solución
+Para dar por correcta la solución deben cumplirse los siguientes puntos:
+● El programa recibirá como entrada una lista con las ciudades existentes
+● El programa recibirá como entrada una lista con las conexiones existentes
+● El programa recibirá como entrada una ciudad de origen
+● El programa recibirá como entrada una ciudad de destino
+● El programa debe mostrar por pantalla una ruta válida desde la ciudad origen a la
+ciudad destino, mostrando los distintos atributos en función del tipo de conexión.
+● El programa debe mostrar por pantalla el mensaje “No existe una ruta valida entre las
+ciudades” en caso de no existir ninguna ruta.
+
+
+## Lista de las conexiones, datos de prueba. 
+1. 
+- Origen: Barcelona
+- Destino: Paris
+- Medio de Transporte: coche
+- Datos del viaje: matricula Nro. 54678LPB
+2. 
+- Origen: Barcelona
+- Destino: Madrid
+- Medio de Transporte: tren
+- Datos del viaje:número de viaje 3456 con asiento nro 10A
+3. 
+- Origen: Valencia
+- Destino: Madrid
+- Medio de Transporte: avión
+- Datos del viaje:número de vuelo VC123 con asiento 5D
+4. 
+- Origen: Malta
+- Destino: Roma
+- Medio de Transporte: avión
+- Datos del viaje:número de vuelo AB3456 con asiento nro. 5
+5. 
+- Origen: Valencia
+- Destino: Barcelona
+- Medio de Transporte: barco
+- Datos del viaje:número de barco 567
+6. 
+- Origen: Madrid
+- Destino: Valencia
+- Medio de Transporte: avión
+- Datos del viaje:número de vuelo MD3456 con asiento 6C
+7. 
+- Origen: Valencia
+- Destino: Malta
+- Medio de Transporte: barco
+- Datos del viaje:número de barco: 123
+8. 
+- Origen: Madrid
+- Destino: Valencia
+- Medio de Transporte: avión
+- Datos del viaje:número de vuelo MD3456 con asiento 6C
+9. 
+- Origen: Valencia
+- Destino: Malta
+- Medio de Transporte: barco
+- Datos del viaje:número de barco: 123
+10. 
+- Origen: Barcelona
+- Destino: Valencia
+- Medio de Transporte: tren
+- Datos del viaje: número de viaje 567 con asiento nro 45A
+11. 
+- Origen: Madrid
+- Destino: Barcelona
+- Medio de Transporte: coche
+- Datos del viaje: matricula Nro. 1234NTD
+12. 
+- Origen: Barcelona
+- Destino: Roma
+- Medio de Transporte: avión
+- Datos del viaje: número de vuelo: IB12 con número de asiento: 10
+13. 
+- Origen: Roma
+- Destino: Malta
+- Medio de Transporte: avión
+- Datos del viaje: número de vuelo: AV34 con el número de asiento: 4
+
